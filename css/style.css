@@ -42,15 +42,15 @@ body {
 }
 
 #listings > div{
-	  -moz-box-shadow:          6px 6px 5px -3px rgba(0,0,0,0.75);
-			-webkit-box-shadow: 6px 6px 5px -3px rgba(0,0,0,0.75);
-				box-shadow:     6px 6px 5px -3px rgba(0,0,0,0.75);
+	-moz-box-shadow: 6px 6px 5px -3px rgba(0,0,0,0.75);
+		-webkit-box-shadow: 6px 6px 5px -3px rgba(0,0,0,0.75);
+			box-shadow: 6px 6px 5px -3px rgba(0,0,0,0.75);
 }
 
 #listings > div:hover{
 	-webkit-box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.75);
--moz-box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.75);
-box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.75);
+		-moz-box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.75);
+			box-shadow: 3px 3px 20px 2px rgba(0,0,0,0.75);
 }
 
 #listings {
